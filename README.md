@@ -20,7 +20,6 @@
 devon = {
     "name"      : "Yiming (Devon) Xiong",
     "focus"     : ["Causal Inference", "Statistics", "Full-stack Dev"],
-    "exploring" : ["causal inference", "full-stack products", "music 🎸"],
     "stack"     : ["Python", "R", "React", "Node.js", "PyTorch"],
     "contact"   : "devonxiong@outlook.com",
     "fun_fact"  : "🎸🎺🎹 I can play 6 types of instruments - and I bring the same curiosity to data."
