@@ -20,10 +20,10 @@
 devon = {
     "name"      : "Yiming (Devon) Xiong",
     "focus"     : ["Causal Inference", "Statistics", "Full-stack Dev"],
-    "building"  : ["Maple Campus Dating App 🍁", "CausalANOVACOMPAS", "causal-anova"],
+    "building"  : ["AI Product", "Statistics Stuff"],
     "stack"     : ["Python", "R", "React", "Node.js", "PyTorch"],
     "contact"   : "devonxiong@outlook.com",
-    "fun_fact"  : "I explain why things happen, not just what happened 🔍"
+    "fun_fact"  : " 🎸🎺🎹 I can play 6 types of instruments - and I bring the same curiosity to data."
 }
 ```
 
@@ -79,5 +79,5 @@ devon = {
 ---
 
 <div align="center">
-  <sub>✨ Welcome to DEVON's Github Page~!~!</sub>
+  <sub>✨ Welcome to DEVON's Github Page!</sub>
 </div>
