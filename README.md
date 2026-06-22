@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Devon+%F0%9F%91%8B;CS+%26+Statistics+Student;Causal+Inference+Researcher;Full-stack+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Devon+%F0%9F%91%8B;Statistics+Student;Causal+Inference+Researcher;Full-stack+Builder)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:devonxiong@outlook.com">
