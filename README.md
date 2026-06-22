@@ -6,7 +6,7 @@
   <a href="mailto:devonxiong@outlook.com">
     <img src="https://img.shields.io/badge/Email-devonxiong%40outlook.com-7F77DD?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-University-1D9E75?style=flat&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Washington University in St. Louis-1D9E75?style=flat&logo=google-maps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=DeXxxXX0099009&color=7F77DD&style=flat&label=Profile+Views" />
 </p>
 
