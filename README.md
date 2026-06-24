@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Email-devonxiong%40outlook.com-7F77DD?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Washington University in St. Louis-1D9E75?style=flat&logo=google-maps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=DeXxxXX0099009&color=7F77DD&style=flat&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=devonxiong&color=7F77DD&style=flat&label=Profile+Views" />
 </p>
 
 </div>
@@ -54,12 +54,12 @@ devon = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeXxxXX0099009&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeXxxXX0099009&layout=compact&theme=tokyonight&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devonxiong&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devonxiong&layout=compact&theme=tokyonight&langs_count=6" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DeXxxXX0099009&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=devonxiong&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -68,11 +68,11 @@ devon = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/DeXxxXX0099009/DeXxxXX0099009/output/github-snake-dark.svg" />
+          srcset="https://raw.githubusercontent.com/devonxiong/devonxiong/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/DeXxxXX0099009/DeXxxXX0099009/output/github-snake.svg" />
+          srcset="https://raw.githubusercontent.com/devonxiong/devonxiong/output/github-snake.svg" />
   <img alt="github-snake"
-       src="https://raw.githubusercontent.com/DeXxxXX0099009/DeXxxXX0099009/output/github-snake.svg" />
+       src="https://raw.githubusercontent.com/devonxiong/devonxiong/output/github-snake.svg" />
 </picture>
 
 ---
