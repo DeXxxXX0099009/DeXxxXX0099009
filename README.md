@@ -49,18 +49,6 @@ devon = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devonxiong&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devonxiong&layout=compact&theme=tokyonight&langs_count=6" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devonxiong&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
 ---
 
